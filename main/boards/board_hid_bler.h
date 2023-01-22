@@ -15,7 +15,7 @@
 #define BOARD_PIN_BATTARY   (2)
 #define BOARD_BATTARY_VOLTAGE_SCALE (2)
 
-#define BOARD_USB1_PIN_DP   (5)
-#define BOARD_USB1_PIN_DM   (4)
-#define BOARD_USB2_PIN_DP   (7)
-#define BOARD_USB2_PIN_DM   (6)
+#define BOARD_USB1_PIN_DP   (4)
+#define BOARD_USB1_PIN_DM   (5)
+#define BOARD_USB2_PIN_DP   (6)
+#define BOARD_USB2_PIN_DM   (7)
